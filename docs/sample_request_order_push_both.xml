@@ -1,0 +1,159 @@
+<ORDER>
+	<ORDER_NUM>W00995422264837</ORDER_NUM>
+	<ORDER_DATE>08-30-2017</ORDER_DATE>
+	<CPY_CODE>081</CPY_CODE><!--DEVICE TYPE -->
+	<EXTERNAL_USER_ID>awjkhbvfawlvhsldvhavldv</EXTERNAL_USER_ID>
+	<CUST_EMAIL>casmong@yahoo.com</CUST_EMAIL>
+	<SMSOPTIN>Y</SMSOPTIN>
+	<EMAIL_TYPE>DELIVERY_CONFIRM</EMAIL_TYPE><!--ORDER_CONFIRM ,SHIPPING_STATUS, DELIVERY_CONFIRM -->
+	<RECIPIENT>
+		<REC_FNAME>Test</REC_FNAME>
+		<REC_LNAME>Test</REC_LNAME>
+		<REC_ADD1>175 Westbury Ave</REC_ADD1>
+		<REC_ADD2>Suite 250</REC_ADD2>
+		<REC_CITY>Carle Place</REC_CITY>
+		<REC_STATE>NY</REC_STATE>
+		<REC_ZIP>11514</REC_ZIP>
+		<REC_COUNTRY>USA</REC_COUNTRY>
+		<REC_ATTN_TEXT/>
+		<ITEM>
+					<PRODUCT_NAME>Congrats Sausage &amp; Cheese Basket Orchard Congratulations</PRODUCT_NAME>
+					<PRODUCT_CODE>141014</PRODUCT_CODE>
+					<PRODUCT_TYPE>GPT</PRODUCT_TYPE>
+					<ALIAS_NAME>Meat and Cheese Hamper-CONGRTULATE</ALIAS_NAME>
+					<DELIVERY_DATE>04/05/2017</DELIVERY_DATE>
+					<FLEX_DATE/>
+					<FLEX_TEXT/>
+					<QUANTITY>1</QUANTITY>
+					<PRICE>49.99</PRICE>
+					<SHIPPING_CHARGE>49.99</SHIPPING_CHARGE>
+					<TAX/>
+					<CARD_MESSAGE>No Card Message</CARD_MESSAGE>
+					<ITEM_BRAND>1009</ITEM_BRAND>
+					<ATTMPT_DATE/>
+					<DEL_ON/>
+					<SHIPPER_TYPE/>
+					<TRK_NUM/>
+					<PRODUCT_IMAGE_CAT>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014c.jpg</PRODUCT_IMAGE_CAT>
+					<PRODUCT_IMAGE_TMN>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014t.jpg</PRODUCT_IMAGE_TMN>
+		</ITEM>
+		<ITEM>
+					<PRODUCT_NAME>Congrats Sausage &amp; Cheese Basket Orchard Congraaaaats</PRODUCT_NAME>
+					<PRODUCT_CODE>141014</PRODUCT_CODE>
+					<PRODUCT_TYPE>GPT</PRODUCT_TYPE>
+					<ALIAS_NAME>Meat and Cheese Hamper-CONGRAAAT</ALIAS_NAME>
+					<DELIVERY_DATE>04/05/2017</DELIVERY_DATE>
+					<FLEX_DATE/>
+					<FLEX_TEXT/>
+					<QUANTITY>1</QUANTITY>
+					<PRICE>49.99</PRICE>
+					<SHIPPING_CHARGE>49.99</SHIPPING_CHARGE>
+					<TAX/>
+					<CARD_MESSAGE>No Card Message</CARD_MESSAGE>
+					<BASE_CODE>141014</BASE_CODE>
+					<ITEM_BRAND>1009</ITEM_BRAND>
+					<ATTMPT_DATE/>
+					<DEL_ON/>
+					<SHIPPER_TYPE/>
+					<TRK_NUM/>
+					<PRODUCT_IMAGE_CAT>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014c.jpg</PRODUCT_IMAGE_CAT>
+					<PRODUCT_IMAGE_TMN>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014t.jpg</PRODUCT_IMAGE_TMN>
+		</ITEM>
+		<ITEM>
+					<PRODUCT_NAME>Congrats Sausage &amp; Cheese Basket Orchard Congratszzzzz</PRODUCT_NAME>
+					<PRODUCT_CODE>141014</PRODUCT_CODE>
+					<PRODUCT_TYPE>GPT</PRODUCT_TYPE>
+					<ALIAS_NAME>Meat and Cheese Hamper-CONGRTZZZZZ</ALIAS_NAME>
+					<DELIVERY_DATE>04/05/2017</DELIVERY_DATE>
+					<FLEX_DATE/>
+					<FLEX_TEXT/>
+					<QUANTITY>1</QUANTITY>
+					<PRICE>49.99</PRICE>
+					<SHIPPING_CHARGE>49.99</SHIPPING_CHARGE>
+					<TAX/>
+					<CARD_MESSAGE>No Card Message</CARD_MESSAGE>
+					<ITEM_BRAND>1009</ITEM_BRAND>
+					<ATTMPT_DATE/>
+					<DEL_ON/>
+					<SHIPPER_TYPE/>
+					<TRK_NUM/>
+					<PRODUCT_IMAGE_CAT>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014c.jpg</PRODUCT_IMAGE_CAT>
+					<PRODUCT_IMAGE_TMN>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014t.jpg</PRODUCT_IMAGE_TMN>
+		</ITEM>
+	</RECIPIENT>
+	<RECIPIENT>
+		<REC_FNAME>Test Recepti</REC_FNAME>
+		<REC_LNAME>Test Recepti</REC_LNAME>
+		<REC_ADD1>175 Westbury Ave</REC_ADD1>
+		<REC_ADD2>Suite 250</REC_ADD2>
+		<REC_CITY>Carle Place</REC_CITY>
+		<REC_STATE>NY</REC_STATE>
+		<REC_ZIP>11514</REC_ZIP>
+		<REC_COUNTRY>USA</REC_COUNTRY>
+		<REC_ATTN_TEXT/>
+		<ITEM>
+					<PRODUCT_NAME>Congrats Sausage &amp; Cheese Basket Orchard Congratulations ZZ</PRODUCT_NAME>
+					<PRODUCT_CODE>141014</PRODUCT_CODE>
+					<PRODUCT_TYPE>GPT</PRODUCT_TYPE>
+					<ALIAS_NAME>Meat and Cheese Hamper-CONGRTULATE ZZ</ALIAS_NAME>
+					<DELIVERY_DATE>04/05/2017</DELIVERY_DATE>
+					<FLEX_DATE/>
+					<FLEX_TEXT/>
+					<QUANTITY>1</QUANTITY>
+					<PRICE>49.99</PRICE>
+					<SHIPPING_CHARGE>49.99</SHIPPING_CHARGE>
+					<TAX/>
+					<CARD_MESSAGE>No Card Message</CARD_MESSAGE>
+					<ITEM_BRAND>1009</ITEM_BRAND>
+					<ATTMPT_DATE/>
+					<DEL_ON/>
+					<SHIPPER_TYPE/>
+					<TRK_NUM/>
+					<PRODUCT_IMAGE_CAT>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014c.jpg</PRODUCT_IMAGE_CAT>
+					<PRODUCT_IMAGE_TMN>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014t.jpg</PRODUCT_IMAGE_TMN>
+		</ITEM>
+		<ITEM>
+					<PRODUCT_NAME>Congrats Sausage &amp; Cheese Basket Orchard Congraaaaats YY</PRODUCT_NAME>
+					<PRODUCT_CODE>141014</PRODUCT_CODE>
+					<PRODUCT_TYPE>GPT</PRODUCT_TYPE>
+					<ALIAS_NAME>Meat and Cheese Hamper-CONGRAAAT YY</ALIAS_NAME>
+					<DELIVERY_DATE>04/05/2017</DELIVERY_DATE>
+					<FLEX_DATE/>
+					<FLEX_TEXT/>
+					<QUANTITY>1</QUANTITY>
+					<PRICE>49.99</PRICE>
+					<SHIPPING_CHARGE>49.99</SHIPPING_CHARGE>
+					<TAX/>
+					<CARD_MESSAGE>No Card Message</CARD_MESSAGE>
+					<BASE_CODE>141014</BASE_CODE>
+					<ITEM_BRAND>1009</ITEM_BRAND>
+					<ATTMPT_DATE/>
+					<DEL_ON/>
+					<SHIPPER_TYPE/>
+					<TRK_NUM/>
+					<PRODUCT_IMAGE_CAT>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014c.jpg</PRODUCT_IMAGE_CAT>
+					<PRODUCT_IMAGE_TMN>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014t.jpg</PRODUCT_IMAGE_TMN>
+		</ITEM>
+		<ITEM>
+					<PRODUCT_NAME>Congrats Sausage &amp; Cheese Basket Orchard Congratszzzzz PP</PRODUCT_NAME>
+					<PRODUCT_CODE>141014</PRODUCT_CODE>
+					<PRODUCT_TYPE>GPT</PRODUCT_TYPE>
+					<ALIAS_NAME>Meat and Cheese Hamper-CONGRTZZZZZ nPP</ALIAS_NAME>
+					<DELIVERY_DATE>04/05/2017</DELIVERY_DATE>
+					<FLEX_DATE/>
+					<FLEX_TEXT/>
+					<QUANTITY>1</QUANTITY>
+					<PRICE>49.99</PRICE>
+					<SHIPPING_CHARGE>49.99</SHIPPING_CHARGE>
+					<TAX/>
+					<CARD_MESSAGE>No Card Message</CARD_MESSAGE>
+					<ITEM_BRAND>1009</ITEM_BRAND>
+					<ATTMPT_DATE/>
+					<DEL_ON/>
+					<SHIPPER_TYPE/>
+					<TRK_NUM/>
+					<PRODUCT_IMAGE_CAT>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014c.jpg</PRODUCT_IMAGE_CAT>
+					<PRODUCT_IMAGE_TMN>http://cdn1.1800baskets-uat.net/wcsstore/Baskets/images/catalog/141014t.jpg</PRODUCT_IMAGE_TMN>
+		</ITEM>
+	</RECIPIENT>
+</ORDER>
