@@ -25,7 +25,7 @@
 		<commons.lang3.version>3.6</commons.lang3.version>
 		<http.nio.core.version>4.4.6</http.nio.core.version>
 		<http.component.async.client.version>4.1.3</http.component.async.client.version>
-		<json.sanitizer.version>1.2.0</json.sanitizer.version>
+		<json.sanitizer.version>1.2.2</json.sanitizer.version>
 		<javax.mail.version>1.6.0</javax.mail.version>
 		<javax.annotation.version>1.3</javax.annotation.version>
 		<jdk.compliance.version>1.8</jdk.compliance.version>
